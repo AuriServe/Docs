@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 249.50793838500977
   },
   "right": {
     "id": "60f852ac00d3c6b3",
@@ -142,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906,
-    "collapsed": true
+    "width": 294.2120666503906
   },
   "active": "bc2ba0956813ada9",
   "lastOpenFiles": [
     "Element API.md",
-    "Definitions.md",
-    "Pure.md",
     "Server.md",
+    "View.md",
+    "Pure.md",
+    "Definitions.md",
     "_ Rationale.md",
     "21-12-30.md",
     "Recording 20211231154141.webm",
     "21_Table-of-Contents.md",
-    "2022/January 1st, 2022.md",
-    "2022/December 30th, 2021.md"
+    "2022/January 1st, 2022.md"
   ]
 }

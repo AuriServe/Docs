@@ -1,5 +1,2 @@
-# Henlo
-Dog
-
-# Pure
-Of a function: Having no side effects. The function does not mutate input parameters or the outer scope.
+# Pure Function
+A function that has no side-effects, i.e does not mutate input parameters or the outer scope.

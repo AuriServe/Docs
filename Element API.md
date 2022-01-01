@@ -32,7 +32,7 @@ The following methods are exposed under the `Elements` export of the `AuriServe`
 	The element identifier that the transformer transforms to.
 
 - **check:** function(props: any): boolean
-	A function that can be executed to check if this transformation is valid. If supplied, the transformer will only be available if the function, when called with the element’s props, returns true. This function happens synchronously whenever Transformers are displayed, so avoid any intensive checks here. If intensive checks are needed, check them in `transform` and return `false` if the transformation is invalid, as described in [[#Transformer Function]].
+	A [[Definitions#Pure Function|Pure Function]] that can be executed to check if this transformation is valid. If supplied, the transformer will only be available if the function, when called with the element’s props, returns true. This function happens synchronously whenever Transformers are displayed, so avoid any intensive checks here. If intensive checks are needed, check them in `transform` and return `false` if the transformation is invalid, as described in [[#Transformer Function]].
 	
 - **transform**: [[#Transformer Function]]
 	The transformer function to call on the element’s props when a transformation is requested.
@@ -40,10 +40,9 @@ The following methods are exposed under the `Elements` export of the `AuriServe`
 ## Transformer Function
 function(props: [[#Props]]): Props | false
 
-A function used to transform an element’s props from one format to another. Used by [[#Transformer Definition]] and [[#^78cf71|registerAlias]]. Accepts the current [[#Props]] of an element and must return a transformed Props object, or `false` to indicate a failed transformation. Behavior on a failed transformation depends on the process that is using it. A transformer function must be [[Definitions#Pure|Pure]].
+A [[Definitions#Pure Function|Pure Function]] used to transform an element’s props from one format to another. Used by [[#Transformer Definition]] and [[#^78cf71|registerAlias]]. Accepts the current [[#Props]] of an element and must return a transformed [[#Props]] or `false` to indicate a failed transformation. Behavior on a failed transformation depends on the process that is using it.
 
 ## Props
-JSON-serializable object.
 
 A JSON-serializable JavaScript object that represents the static state, or properties of an element. Such properties define how the element renders, and the exact format of a Props object depends on the Element that it is for.
 
