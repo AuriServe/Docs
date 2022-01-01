@@ -7,10 +7,10 @@ The following methods are exposed under the `Elements` export of the `AuriServe`
 
 - **registerAlias(alias: string, identifier: string, transformer?: [[#Transformer Function]])**
 	Registers an alias from `alias` to `identifier`. This should only be used if a previously registered element’s identifier had to change, such as if a plugin changes its name. Any elements identified by `alias` will be updated to be identified by `identifier`. This process is automatic, and irreversible.
-
+	If supplied, `transformer` will be called on the element’s [[Props]] before updating the element’s identifier. ^78cf71
+	
 - **registerTransformer(definition: [[#Transformer Definition]])**
-	Registers a transformer with the supplied `definition`. A transformer represents the ability to *transform* one element to another, such as an image gallery to a carousel, and vice versa.
-
+	Registers a transformer with the supplied `definition`. A transformer represents the ability to *transform* one element to another, such as an image gallery to a carousel, and vice versa. Transformers represent an optional transformation. If a transformation is required for functionality e.g. when deprecating an element in favor of another, see [[#^78cf71|registerAlias]].
 
 ## Element Definition
 
@@ -27,4 +27,13 @@ The following methods are exposed under the `Elements` export of the `AuriServe`
 
 - **from**: string
 	The element identifier that the transformer transforms from.
+
+- **to:** string
+	The element identifier that the transformer transforms to.
+
+- **check:** function(props: any): boolean
+	A function that can be executed to check if this transformation is valid. If supplied, the transformer will only be available if the function, when called with the element’s props, returns true. This function happens synchronously whenever Transformers are displayed, so avoid any intensive checks here. If intensive checks are needed, see 
+	
+- **transform**: [[#TransformerFunction]]
+	The transformer function to call on the element’s props, when a transformation is requested.
 
