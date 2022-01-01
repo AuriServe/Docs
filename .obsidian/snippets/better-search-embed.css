@@ -1,0 +1,12 @@
+.internal-query {
+	border-top: none;
+	border-bottom: none;
+}
+
+.internal-query .internal-query-header {
+	display: none;
+}
+
+.internal-query ~ .edit-block-button {
+	display: none !important;
+}

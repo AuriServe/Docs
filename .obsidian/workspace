@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2ba0956813ada9",
+        "id": "b6c42b2b113708b4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Server.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Server.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,11 +135,11 @@
     "direction": "horizontal",
     "width": 294.2120666503906
   },
-  "active": "bc2ba0956813ada9",
+  "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
-    "Server.md",
     "Elements.md",
     "Definitions.md",
+    "Server.md",
     "Views.md",
     "22-01-01.md",
     "Pure.md",

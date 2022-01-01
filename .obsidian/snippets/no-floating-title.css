@@ -1,0 +1,16 @@
+.workspace-leaf-content[data-type=markdown] .view-header .view-header-title-container {
+	display: none;
+}
+
+.workspace-leaf.mod-active:first-of-type:last-of-type .workspace-leaf-content[data-type=markdown] .view-header {
+	background-color: transparent !important;
+}
+
+.workspace-leaf-content[data-type=markdown] .view-header {
+	margin-right: 8px;
+}
+
+.workspace-leaf-content[data-type=markdown] .view-content {
+	margin-top: calc(-1 * var(--header-height));
+	height: 100%;
+}
