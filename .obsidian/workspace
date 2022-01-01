@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#emotion/love",
+                "query": "registerTransformer",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 139
+    "width": 170
   },
   "right": {
     "id": "60f852ac00d3c6b3",
