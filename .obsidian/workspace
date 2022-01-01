@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elements.md",
+            "file": "Views.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements.md"
+                "file": "Views.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements.md",
+                "file": "Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements.md",
+                "file": "Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "bc2ba0956813ada9",
   "lastOpenFiles": [
+    "Views.md",
     "Elements.md",
     "Definitions.md",
+    "22-01-01.md",
     "Server.md",
-    "Views.md",
     "Pure.md",
     "_ Rationale.md",
     "21-12-30.md",
     "Recording 20211231154141.webm",
-    "21_Table-of-Contents.md",
-    "2022/January 1st, 2022.md"
+    "21_Table-of-Contents.md"
   ]
 }

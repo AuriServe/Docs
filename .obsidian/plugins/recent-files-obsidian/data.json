@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Views",
+      "path": "Views.md"
+    },
+    {
       "basename": "Elements",
       "path": "Elements.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Server",
       "path": "Server.md"
-    },
-    {
-      "basename": "Views",
-      "path": "Views.md"
     },
     {
       "basename": "_ Rationale",
