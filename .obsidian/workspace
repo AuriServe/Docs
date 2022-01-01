@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "View.md",
+            "file": "Elements.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "View.md"
+                "file": "Elements.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "View.md",
+                "file": "Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "View.md",
+                "file": "Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,10 +146,10 @@
   },
   "active": "bc2ba0956813ada9",
   "lastOpenFiles": [
-    "View.md",
     "Elements.md",
-    "Definitions.md",
     "Server.md",
+    "Views.md",
+    "Definitions.md",
     "Pure.md",
     "_ Rationale.md",
     "21-12-30.md",
