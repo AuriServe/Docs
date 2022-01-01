@@ -5,16 +5,16 @@
       "path": "Elements.md"
     },
     {
+      "basename": "Definitions",
+      "path": "Definitions.md"
+    },
+    {
       "basename": "Server",
       "path": "Server.md"
     },
     {
       "basename": "Views",
       "path": "Views.md"
-    },
-    {
-      "basename": "Definitions",
-      "path": "Definitions.md"
     },
     {
       "basename": "_ Rationale",
