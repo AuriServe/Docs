@@ -16,4 +16,4 @@ This document details the Views export of the AuriServe module, which handles re
 	A unique identifier for the view, containing the plugin name and the view name, separated by a colon. Both names should be snake_cased. Example: `auri_views:static_page`. This identifier should not change, as it is used to represent the element in all renderers.
 	
 - **name**:  string
-	A user-friendly name for the element. May contain any characters, including spaces. It is recommended to use Title Case and keep names under 20 characters.
+	A user-friendly name for the view. May contain any characters, including spaces. It is recommended to use Title Case and keep names under 20 characters.
