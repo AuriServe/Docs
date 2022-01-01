@@ -5,6 +5,14 @@
       "path": "Element API.md"
     },
     {
+      "basename": "Definitions",
+      "path": "Definitions.md"
+    },
+    {
+      "basename": "Pure",
+      "path": "Pure.md"
+    },
+    {
       "basename": "Server",
       "path": "Server.md"
     },
