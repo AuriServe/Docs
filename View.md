@@ -1,0 +1,1 @@
+A View represents a template for rendering a page, or set of pages. For example, a Static Page View is provided by the Default Plugin, which takes a layout file (in HTML), and a tree of Elements, and renders a single static page. Views may be more complex as well, representing trees such as Blogs or even entire E-Commerce frontends. 

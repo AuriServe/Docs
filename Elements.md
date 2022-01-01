@@ -9,11 +9,14 @@ This document details the Elements export of the AuriServe module, which handles
 - **registerElement(definition: [[#Element]])**
 	Registers an element with the supplied `definition`. Elements are rendered portions of a [[View]]. They may be static content or interactive experiences. Elements are written and rendered in Preact both on the server and, in some cases, the client.
 
+- **unregisterElement(identifier: string)**
+	Unregisters the element for the given `identifier`. This element is removed from the elements list, and cannot be referenced or used. If the element specified doe not exist, does nothing.
+
 - **registerAlias(alias: string, identifier: string, transformer?: [[#Transformer Function]])**
 	Registers an alias from `alias` to `identifier`. This should only be used if a previously registered element’s identifier had to change, such as if a plugin changes its name. Any elements identified by `alias` will be updated to be identified by `identifier`. This process is automatic, and irreversible.
 	If supplied, `transformer` will be called on the element’s [[#Props]] before updating the element’s identifier. ^78cf71
 	
-- **registerTransformer(definition: [[#Transformer Definition]])**
+- **registerTransformer(definition: [[#Transformer]])**
 	Registers a transformer with the supplied `definition`. A transformer represents the ability to *transform* one element to another, such as an image gallery to a carousel, and vice versa. Transformers represent an optional transformation. If a transformation is required for functionality e.g. when deprecating an element in favor of another, see [[#^78cf71|registerAlias]].
 
 ## Definitions
