@@ -51,3 +51,14 @@ entry:
 	script: dist/editor.js
 	style: dist/editor.css
 ```
+
+
+invalid {
+	key is primitive {
+			
+	}
+}
+
+validations contains subschemas {
+
+}
