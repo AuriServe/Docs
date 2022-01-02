@@ -1,6 +1,6 @@
 # Plugin Structure
 
-A Plugin, in its barest form, is simply a folder containing a JavaScript source file for AuriServe to `require` and a [[Plugin Manifests]] identifying it.
+A Plugin, in its barest form, is simply a folder containing a JavaScript source file for AuriServe to `require` and a [[Plugin Manifest]] identifying it.
 
 
 

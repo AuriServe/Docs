@@ -14,4 +14,4 @@ Plugin developers may `require` the YAML API using the [[Core API]], which will 
 
 ## Where YAML is used
 
-- [[Plugin Manifests]]
+- [[Plugin Manifest|Plugin Manifests]]

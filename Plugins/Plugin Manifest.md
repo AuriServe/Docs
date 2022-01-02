@@ -1,4 +1,4 @@
-# Plugin Manifests
+# Plugin Manifest
 
 A plugin's `manifest.yaml` is a YAML file containing information relating to a Plugin. Every plugin requires a `manifest.yaml` following the specification outlined below, and, unless specified otherwise, all keys are required.
 
