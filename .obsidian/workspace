@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c42b2b113708b4",
+        "id": "652a80fe4ced52ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Views.md",
+            "file": "Plugins/Plugin Manifest.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Views.md"
+                "file": "Plugins/Plugin Manifest.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Views.md",
+                "file": "Plugins/Plugin Manifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Views.md",
+                "file": "Plugins/Plugin Manifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906
+    "width": 294.2120666503906,
+    "collapsed": true
   },
-  "active": "b6c42b2b113708b4",
+  "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Views.md",
+    "Plugins/Plugin Manifest.md",
+    "Plugins/Best Practices.md",
     "_Scratchpad.md",
+    "Routes.md",
+    "Views.md",
     "Server/YAML.md",
     "Plugins/Plugin Structure.md",
-    "Plugins/Best Practices.md",
-    "Plugins/Plugin Manifest.md",
     "Plugins/_Getting Started.md",
     "Server/Core API.md",
-    "Elements.md",
-    "Untitled 1.md"
+    "Elements.md"
   ]
 }
