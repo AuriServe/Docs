@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Scratchpad.md",
+            "file": "Server API.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Scratchpad.md"
+                "file": "Server API.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Scratchpad.md",
+                "file": "Server API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Scratchpad.md",
+                "file": "Server API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
+    "Server API.md",
+    "Untitled.md",
     "_Scratchpad.md",
     "Views.md",
-    "Server.md",
     "Elements.md",
     "Definitions.md",
     "22-01-01.md",
     "Pure.md",
     "_ Rationale.md",
-    "21-12-30.md",
-    "Recording 20211231154141.webm"
+    "21-12-30.md"
   ]
 }

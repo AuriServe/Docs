@@ -4,8 +4,8 @@
   "theme": "obsidian",
   "translucency": false,
   "enabledCssSnippets": [
-    "bold_headers",
     "no-floating-title",
-    "better-search-embed"
+    "better-search-embed",
+    "bold_headers_2"
   ]
 }
