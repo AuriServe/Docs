@@ -18,12 +18,19 @@ import type CoreType from 'auriserve-plugin-core-typedefs';
 export default Core = _AURISERVE.getCoreApi() as any as CoreType;
 ```
 
-### PluginStub.ts
+~~### PluginStub.ts~~
 ```javascript
-import Core from 'auriserve-plugin-core'
+import AuriServe from 'auriserve-plugin-core'
 import type PluginNameTypes from 'plugin-name-typedefs';
 
-export default Core.api.require('plugin-name') as API;
+export default AuriServe.require('plugin-name') as API;
 ```
 
-And requireApi could throw an error if the API can't be found.
+~~And requireApi could throw an error if the API can't be found.
+I'd like a way to do this with TypeScript without unnecessary stubs. I suppose the stubs are only for TypeScript, and in JavaScript you could just use the `AuriServe.require` function raw.~~
+
+Never mind, scratch all of that. Typescript lets you merge declarations [as seen here](https://www.typescriptlang.org/docs/handbook/declaration-merging.html#:~:text=be%20the%20following%3A-,interface%20Document%20%7B,%7D,-Merging%20Namespaces) so I can just use `AuriServe.require` for everything~ perfect. You'll still need to get the type definitions, but luckily, that doesn't require any runtime code or imports :3
+
+## New name for AuriServe
+
+The name AuriServe is dumb. Maybe Servo, Tinker, 
