@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Server API.md",
+            "file": "Server/Plugins/Best Practices.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server API.md"
+                "file": "Server/Plugins/Best Practices.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server API.md",
+                "file": "Server/Plugins/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server API.md",
+                "file": "Server/Plugins/Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
-    "Server API.md",
+    "Server/Plugins/Best Practices.md",
     "Elements.md",
+    "Server/Core API.md",
+    "Untitled 1.md",
     "Definitions.md",
     "_Scratchpad.md",
     "Views.md",
     "Untitled.md",
     "22-01-01.md",
-    "Pure.md",
-    "_ Rationale.md",
-    "21-12-30.md"
+    "Pure.md"
   ]
 }
