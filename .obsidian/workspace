@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Routes.md",
+            "file": "_Scratchpad.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routes.md"
+                "file": "_Scratchpad.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routes.md",
+                "file": "_Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routes.md",
+                "file": "_Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906,
-    "collapsed": true
+    "width": 294.2120666503906
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
+    "_Scratchpad.md",
+    "Elements.md",
     "Routes.md",
     "Views.md",
-    "_Scratchpad.md",
     "Untitled.md",
     "Plugins/Plugin Manifest.md",
     "Plugins/Best Practices.md",
     "Server/YAML.md",
     "Plugins/Plugin Structure.md",
-    "Plugins/_Getting Started.md",
-    "Server/Core API.md"
+    "Plugins/_Getting Started.md"
   ]
 }
