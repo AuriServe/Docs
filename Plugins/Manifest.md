@@ -5,7 +5,35 @@ A plugin manifest is a Yaml file containing properties relating to a Plugin.
 ## Example
 
 ```YAML
-# The main identifier for your plugin. Must only contain lowercase letters and hyphens. Should be the same as 
+
+# The main identifier for your plugin. Must only contain 
+# lowercase letters and hyphens. Should be the same as the 
+# exported API identifier, if there is one.
+
 identifier: my-auriserve-plugin
+
+# The friendly name for your plugin, shown to users.
+# May contain any characters, but it is recommended to keep it below
+# 20 characters long, as any more than that may cause truncation.
+
 name: My AuriServe Plugin
+
+# A short description for your plugin. 
+# May contain any characters, and span multiple lines.
+
+description:|
+	This is my awesome plugin for awesome things.
+	Can you believe it?
+
+# The author of the plugin. Must only contain letters and spaces,
+# however, if an @ sign is the first character, the author is assumed
+# to be an AuriServe Plugin Database Developer username, and it must
+# conform to the format required there.
+
+author: @Auri
+
+entry:
+	
+
+
 ```
