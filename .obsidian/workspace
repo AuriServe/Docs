@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins/Plugin Manifest.md",
+            "file": "Routes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Plugin Manifest.md"
+                "file": "Routes.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Plugin Manifest.md",
+                "file": "Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Plugin Manifest.md",
+                "file": "Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +147,15 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Plugins/Plugin Manifest.md",
-    "Plugins/Best Practices.md",
-    "_Scratchpad.md",
     "Routes.md",
     "Views.md",
+    "_Scratchpad.md",
+    "Untitled.md",
+    "Plugins/Plugin Manifest.md",
+    "Plugins/Best Practices.md",
     "Server/YAML.md",
     "Plugins/Plugin Structure.md",
     "Plugins/_Getting Started.md",
-    "Server/Core API.md",
-    "Elements.md"
+    "Server/Core API.md"
   ]
 }
