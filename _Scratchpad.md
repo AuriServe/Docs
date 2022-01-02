@@ -47,4 +47,9 @@ The name AuriServe is dumb. Maybe Servo, Tinker, Dragon?
 - API for requiring other plugins and APIs
 - API for accessing express routing capabilities
 
-### Admin Interfa
+### Admin Interface
+
+- Adding Pages
+- Adding Settings Pages
+- Adding Shortcuts
+- Exposing core interface components as a module that is loaded into a global.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "_Scratchpad.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.md"
+                "file": "_Scratchpad.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "_Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
-    "Scratchpad.md",
+    "_Scratchpad.md",
     "Views.md",
     "Server.md",
     "Elements.md",
