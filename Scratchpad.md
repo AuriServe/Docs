@@ -18,7 +18,7 @@ import type CoreType from 'auriserve-plugin-core-typedefs';
 export default Core = _AURISERVE.getCoreApi() as any as CoreType;
 ```
 
-~~### PluginStub.ts~~
+### ~~PluginStub.ts~~
 ```javascript
 import AuriServe from 'auriserve-plugin-core'
 import type PluginNameTypes from 'plugin-name-typedefs';
@@ -33,4 +33,18 @@ Never mind, scratch all of that. Typescript lets you merge declarations [as seen
 
 ## New name for AuriServe
 
-The name AuriServe is dumb. Maybe Servo, Tinker, 
+The name AuriServe is dumb. Maybe Servo, Tinker, Dragon?
+
+## So if Routing is a plugin, Views are a plugin that adds on to Routing, and Elements are a plugin that adds on the Views… A database system is needed that allows plugins to store information.
+
+## If Routing as a whole is a custom thing, can static files even be a plugin? Oh god.
+
+## So what does need to be in the core?
+
+### Server
+
+- Database access for storing structured data
+- API for requiring other plugins and APIs
+- API for accessing express routing capabilities
+
+### Admin Interfa
