@@ -8,7 +8,7 @@ AuriServe creates a global variable called `_AURISERVE`, which is an object cont
 
 ### require(identifier: String, version?: String)
 
-Returns the API exported with the specified `identifier` from the API Registry, or throws an error if the API has not been registered. Plugins should always specify their dependencies in their `plugin.yaml` file, though, so these runtime errors should not happen in well-made plugins.
+Returns the API exported with the specified `identifier` from the API Registry, or throws an error if the API has not been registered. Plugins should always specify their dependencies in their `manifest.yaml` file, though, so these runtime errors should not happen in well-made plugins.
 
 APIs are added using the [[#export identifier String api Object|export]] function, but the identifier 'core' has a special case where it returns the Core API itself. This is because the Core API is within the API registry. So technically, you can `require('core').require('core')...` as many times as you want, but please don't.
 
