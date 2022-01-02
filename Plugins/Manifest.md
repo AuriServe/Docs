@@ -1,11 +1,11 @@
 # Manifest
 
-A plugin manifest is a Yaml file containing properties relating to a Plugin.
+A plugin manifest is a YAML file containing properties relating to a Plugin.
+YAML is parsed with the Failsafe schema, meaning that explicit tagging won't work. Though the rest of the YAML syntax is supported, it is recommended to refrain from using duplicate keys, node anchors, and flow style, as these features generally lead to less readable YAML files.
 
 ## Example
 
-```YAML
-
+```yaml
 # The main identifier for your plugin. Must only contain 
 # lowercase letters and hyphens. Should be the same as the 
 # exported API identifier, if there is one.
@@ -32,8 +32,17 @@ description:|
 
 author: @Auri
 
+# The list of entrypoints for the plugin.
+# 'server' specifies code to run on the server, and 
+# 'client' specifies code to run in the backend interface.
+# The value can either be a string to the JavaScript file, or
+# an object with the following keys:
+# - script - The JavaScript file to execute.
+# - style - A CSS Stylesheet to include (only valid on 'client')
+
 entry:
-	
-
-
+- server: dist/server.js
+- client:
+	script: dist/editor.js
+	style: dist/editor.css
 ```
