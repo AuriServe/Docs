@@ -7,8 +7,13 @@
         "id": "b6c42b2b113708b4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Scratchpad.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scratchpad.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +146,15 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
+    "Scratchpad.md",
+    "Views.md",
+    "Server.md",
     "Elements.md",
     "Definitions.md",
-    "Server.md",
-    "Views.md",
     "22-01-01.md",
     "Pure.md",
     "_ Rationale.md",
     "21-12-30.md",
-    "Recording 20211231154141.webm",
-    "21_Table-of-Contents.md"
+    "Recording 20211231154141.webm"
   ]
 }

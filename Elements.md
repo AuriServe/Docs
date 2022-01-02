@@ -1,3 +1,5 @@
+# Elements
+
 ## Overview
 
 An Element is a isolated container containing content, which may be static or interactive. They are, in essence, the building blocks of AuriServe. [[Views]] may use Elements to allow user-end editing, and to enable them to integrate with other plugins, and Plugins may provide and/or consume Elements as they see fit. For example, the Static Pages plugin allows users to compose pages out of Components, and the Blog plugin allows Elements to be added to Blog Posts. The Default plugin registers many core Elements for use, including Text Views, Column Layouts, Images, and more. Elements are versatile, and may be rendered on the Server, Client, or in the Administration Panel, depending on other plugin functionality, so care should be taken to make them function as smoothly as possible.
