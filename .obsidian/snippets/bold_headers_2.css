@@ -1,7 +1,6 @@
 .workspace-leaf-content[data-type=markdown] .view-content {
 	--h3-weight: 600 !important;
-}
-
-.view-content {
-	background-color: red;
+	--h4-weight: 600 !important;
+	--h5-weight: 600 !important;
+	--h6-weight: 600 !important;
 }
