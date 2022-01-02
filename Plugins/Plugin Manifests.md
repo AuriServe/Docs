@@ -1,9 +1,10 @@
-# Manifest
+# Plugin Manifests
 
-A plugin manifest is a YAML file containing properties relating to a Plugin.
-YAML is parsed with the Failsafe schema, meaning that explicit tagging won't work. Though the rest of the YAML syntax is supported, it is recommended to refrain from using duplicate keys, node anchors, and flow style, as these features generally lead to less readable YAML files.
+A plugin's `manifest.yaml` is a YAML file containing information relating to a Plugin. Every plugin requires a `manifest.yaml` following the specification outlined below, and, unless specified otherwise, all keys are required.
 
-## Example
+YAML is parsed according to [[YAML|AuriServe's YAML parsing rules]].
+
+## Specification & Example
 
 ```yaml
 # The main identifier for your plugin. Must only contain 
@@ -12,13 +13,13 @@ YAML is parsed with the Failsafe schema, meaning that explicit tagging won't wor
 
 identifier: my-auriserve-plugin
 
-# The friendly name for your plugin, shown to users.
+# Optional: The friendly name for your plugin, shown to users.
 # May contain any characters, but it is recommended to keep it below
 # 20 characters long, as any more than that may cause truncation.
 
 name: My AuriServe Plugin
 
-# A short description for your plugin. 
+# Optional: A short description for your plugin. 
 # May contain any characters, and span multiple lines.
 
 description:|
@@ -31,6 +32,10 @@ description:|
 # conform to the format required there.
 
 author: @Auri
+
+# The SemVer version number of the plugin.
+
+version: 0.5.2
 
 # The list of entrypoints for the plugin.
 # 'server' specifies code to run on the server, and 

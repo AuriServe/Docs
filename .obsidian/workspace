@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins/Manifest.md",
+            "file": "Plugins/Plugin Structure.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Manifest.md"
+                "file": "Plugins/Plugin Structure.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Manifest.md",
+                "file": "Plugins/Plugin Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Manifest.md",
+                "file": "Plugins/Plugin Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
-    "Plugins/Manifest.md",
-    "Plugins/Best Practices.md",
     "Plugins/Plugin Structure.md",
+    "Plugins/Plugin Manifests.md",
+    "Server/YAML.md",
+    "Plugins/Best Practices.md",
     "Plugins/_Getting Started.md",
     "Server/Core API.md",
     "Elements.md",
     "Untitled 1.md",
     "Definitions.md",
-    "_Scratchpad.md",
-    "Views.md"
+    "_Scratchpad.md"
   ]
 }
