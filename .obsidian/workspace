@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Scratchpad.md",
+            "file": "Views.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Scratchpad.md"
+                "file": "Views.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Scratchpad.md",
+                "file": "Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Scratchpad.md",
+                "file": "Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,7 @@
   },
   "active": "b6c42b2b113708b4",
   "lastOpenFiles": [
+    "Views.md",
     "_Scratchpad.md",
     "Server/YAML.md",
     "Plugins/Plugin Structure.md",
@@ -154,7 +155,6 @@
     "Plugins/_Getting Started.md",
     "Server/Core API.md",
     "Elements.md",
-    "Untitled 1.md",
-    "Definitions.md"
+    "Untitled 1.md"
   ]
 }
