@@ -1,10 +1,10 @@
 # Phone Comparison
 
-## Motorola Edge (XT2063-2, XT2063-3)
+## Motorola Edge (XT2063-2, XT2063-3) 
 188g
 OLED, 90Hz
 Yes MicroSD
-128GB 4GB, 128GB 6GB, 256GB 6GB
+~~128GB 4GB~~, ~~128GB 6GB~~, ==256GB 6GB **$700**==
 64 MP primary, **2x optical zoom**, 4k video
 25 MP selfie
 4500 mAh battery, fast charging
@@ -13,7 +13,8 @@ Yes MicroSD
 169g
 Super AMOLED, 128Hz
 **NO MICROSD**
-128GB 6GB, 128GB 8GB, 256GB 8GB, 256GB 12GB, 256GB 16GB
+~~128GB 6GB~~, ==128GB 8GB **$957 + import**==, ==256GB 8GB **$1019 + import**==, 
+==256GB 12GB **$1129 + import**==, ~~256GB 16GB~~
 64 MP primary, 4k/60 video
 **12 MP selfie :(**
 4000 mAh battery, fast charging
@@ -22,7 +23,7 @@ Super AMOLED, 128Hz
 185g
 Super AMOLED, 60Hz
 Yes MicroSD
-128GB 6GB, 128GB 8GB, 256GB 8GB, 512GB 12GB
+==128GB 6GB **$850 NOT AMAZON**==, ~~128GB 8GB, 256GB 8GB, 512GB 12GB~~
 48 MP primary, 4k video
 **32 MP selfie
 4000 mAh battery, fast charging
@@ -31,7 +32,7 @@ Yes MicroSD
 191g
 AMOLED, 60hz
 **No MicroSD**
-64GB 6GB, 128GB 6GB
+~~64GB 6GB~~, ==128GB 6GB **$330 NOT AMAZON**== 
 48 MB primary, 4k video
 20 MP selfie **popup :)
 4000 mAh battery, fast charging
@@ -40,7 +41,7 @@ AMOLED, 60hz
 175g
 Dynamic AMOLED, 60hz
 Yes MicroSD
-128GB 6GB, 128GB 8GB, 512GB 8GB, 1TB 12GB
+~~128GB 6GB~~, ==128GB 8GB **$935**==, ~~512GB 8GB, 1TB 12GB~~
 **12mb primary, 2x optical zoom**, 4k video
 **10 mb selfie :(
 4100 mAh, fast charging
