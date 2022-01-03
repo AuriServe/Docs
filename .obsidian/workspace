@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins/Plugin Manifest.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50793838500977
+    "width": 249.50793838500977,
+    "collapsed": true
   },
   "right": {
     "id": "60f852ac00d3c6b3",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Plugin Manifest.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Plugin Manifest.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Plugin Manifest.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +143,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906
+    "width": 294.2120666503906,
+    "collapsed": true
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
+    "Untitled.md",
     "Plugins/Plugin Manifest.md",
     "Plugins/Plugin Structure.md",
     "Server/YAML.md",
@@ -154,7 +157,6 @@
     "Elements.md",
     "Routes.md",
     "Views.md",
-    "Untitled.md",
     "Plugins/Best Practices.md"
   ]
 }

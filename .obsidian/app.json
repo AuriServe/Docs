@@ -8,7 +8,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckLanguages": [
     "en-US"
   ],
