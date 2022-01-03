@@ -76,9 +76,7 @@ MicroSD
 **10mp selfie :(**
 3100 mAh, **weak fast charging**
 
-
-
-## Weaning out the weak
+## FINAL CHOICE 
 
 ### Motorola Edge (XT2063-2, XT2063-3) 
 188g
@@ -87,34 +85,3 @@ OLED, 90Hz
 64 MP primary, **2x optical zoom**, 4k video
 25 MP selfie
 4500 mAh battery, fast charging
-
-### Lenovo Z6 Pro (L78051)
-185g
-Super AMOLED, 60Hz
-==128GB 6GB **$850 NOT AMAZON**==, ~~128GB 8GB, 256GB 8GB, 512GB 12GB~~
-48 MP primary, 4k video
-**32 MP selfie
-4000 mAh battery, fast charging
-
-### Samsung Galaxy S10+ (SM-G975F, SM-G975F/DS)
-175g
-Dynamic AMOLED, 60hz
-==128GB 6GB **$579**==, ==128GB 8GB **$935**==, ~~512GB 8GB, 1TB 12GB~~
-**12mb primary, 2x optical zoom**, 4k video
-**10 mb selfie :(
-4100 mAh, fast charging
-
-### Samsung Galaxy S10 (SM-G973F, SM-G973F/DS)
-157g
-Dynamic AMOLED, 60hz
-==128GB 6GB **$530**==, ~~128GB 8GB, 512GB 8GB~~
-**16MP primary, 2x optical zoom**, 4k video
-3400 mAh, **weak fast charging**
-
-### Samsung Galaxy S10e (SM-G970F, SM-G970F/DS)
-150g
-Dynamic AMOLED, 60hz
-==128GB, 6GB **$500**==
-**16MP primary**, 4k video
-**10mp selfie :(**
-3100 mAh, **weak fast charging**
