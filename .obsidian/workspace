@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Phone Comparison.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50793838500977,
-    "collapsed": true
+    "width": 249.50793838500977
   },
   "right": {
     "id": "60f852ac00d3c6b3",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Phone Comparison.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Phone Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Phone Comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,13 +147,13 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Phone Comparison.md",
+    "Elements.md",
     "Plugins/Plugin Manifest.md",
     "Plugins/Plugin Structure.md",
     "Server/YAML.md",
     "Server/Core API.md",
     "_Scratchpad.md",
-    "Elements.md",
     "Routes.md",
     "Views.md",
     "Plugins/Best Practices.md"
