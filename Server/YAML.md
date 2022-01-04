@@ -10,7 +10,7 @@ The full YAML syntax is available, but for reasons outlined in [this document](h
 
 ## How YAML should be parsed by Plugins
 
-Plugin developers may `require` the YAML API using the [[Core API]], which will enforce identical behavior to that in the AuriServe Core. If Plugin developers instead choose to roll their own YAML parsing library, it is their obligation to ensure consistency themselves.
+Plugin developers may `require` the YAML API using the [[Context]], which will enforce identical behavior to that in the AuriServe Core. If Plugin developers instead choose to roll their own YAML parsing library, it is their obligation to ensure consistency themselves.
 
 ## Where YAML is used
 

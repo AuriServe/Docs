@@ -8,7 +8,7 @@ By far and away the most helpful thing you can do if your plugin exposes an API 
 
 ## Export APIs under your Plugin's identifier
 
-It is much clearer for everyone involved if plugins providing APIs [[Core API#export identifier String api Object|export]] under their own identifier. This way, other developers can know at a glance what your API is identified as, and don't have to dig through your docs, or code, before they've even started.
+It is much clearer for everyone involved if plugins providing APIs [[Context#export identifier String api Object|export]] under their own identifier. This way, other developers can know at a glance what your API is identified as, and don't have to dig through your docs, or code, before they've even started.
 
 ## Clean up after yourself
 
