@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Server/Context.md",
+            "file": "_Scratchpad.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Context.md"
+                "file": "_Scratchpad.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Context.md",
+                "file": "_Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Context.md",
+                "file": "_Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,14 +142,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906
+    "width": 296.212158203125
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Server/Context.md",
-    "Server/API.md",
-    "Server/YAML.md",
     "_Scratchpad.md",
+    "Server/Context.md",
+    "Server/API Registry.md",
+    "Server/YAML.md",
     "Definitions.md",
     "Phone Comparison.md",
     "Elements.md",

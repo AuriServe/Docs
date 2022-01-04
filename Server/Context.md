@@ -4,7 +4,7 @@
 
 ### api
 
-The [[API object]], which provides methods to export, unexport, and require APIs registered by other Plugins
+The [[API registry object]], which provides methods to export, unexport, and require Plugin APIs.
 
 ## Methods
 
