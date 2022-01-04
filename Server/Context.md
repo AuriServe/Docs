@@ -1,8 +1,10 @@
 # Core API
 
-## Accessing the Core API
+## Properties
 
-AuriServe creates a global variable called `_AURISERVE`, which is an object containing the `getServerApi()` method. `getServerApi()` returns the Core API from the API registry, which, in a somewhat strange recursive fashion, allows access to the API registry itself. The methods listed below are all contained within the Core API.
+### api
+
+The [[API object]], which provides methods to export, unexport, and require APIs registered by other Plugins
 
 ## Methods
 

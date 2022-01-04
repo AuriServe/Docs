@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Server/API.md",
+            "file": "Server/Context.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/API.md"
+                "file": "Server/Context.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/API.md",
+                "file": "Server/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/API.md",
+                "file": "Server/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,13 +142,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.2120666503906,
-    "collapsed": true
+    "width": 294.2120666503906
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Server/API.md",
     "Server/Context.md",
+    "Server/API.md",
     "Server/YAML.md",
     "_Scratchpad.md",
     "Definitions.md",
