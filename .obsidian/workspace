@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins/Best Practices.md",
+            "file": "Server/Context.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Best Practices.md"
+                "file": "Server/Context.md"
               }
             }
           },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Best Practices.md",
+                "file": "Server/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Best Practices.md",
+                "file": "Server/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +139,7 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
+    "Server/Context.md",
     "Plugins/Best Practices.md",
     "Plugins/Plugin Manifest.md",
     "Server/YAML.md",
@@ -147,7 +148,6 @@
     "_Scratchpad.md",
     "Routes.md",
     "Elements.md",
-    "Phone Comparison.md",
-    "Untitled.md"
+    "Phone Comparison.md"
   ]
 }
