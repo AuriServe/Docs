@@ -7,8 +7,13 @@
         "id": "652a80fe4ced52ce",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Plugins/Plugin Manifest.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -68,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50793838500977
+    "width": 254
   },
   "right": {
     "id": "60f852ac00d3c6b3",
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plugins/Plugin Manifest.md"
+              }
             }
           },
           {
@@ -92,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plugins/Plugin Manifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plugins/Plugin Manifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +139,15 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Phone Comparison.md",
-    "Elements.md",
-    "Definitions.md",
-    "Server/Context.md",
-    "Server/API Registry.md",
-    "Server/YAML.md",
-    "_Scratchpad.md",
     "Plugins/Plugin Manifest.md",
-    "Plugins/Plugin Structure.md"
+    "Server/YAML.md",
+    "Definitions.md",
+    "Views.md",
+    "_Scratchpad.md",
+    "Routes.md",
+    "Elements.md",
+    "Phone Comparison.md",
+    "Plugins/Best Practices.md",
+    "Untitled.md"
   ]
 }
