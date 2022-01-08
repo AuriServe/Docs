@@ -7,13 +7,8 @@
         "id": "652a80fe4ced52ce",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Server/API Registry.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,14 +63,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "2c7036d737a602b3",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -96,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Server/API Registry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/API Registry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/API Registry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,15 +130,15 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Server/API Registry.md",
-    "_Scratchpad.md",
-    "Server/Context.md",
-    "Server/YAML.md",
-    "Definitions.md",
+    "Untitled.md",
     "Phone Comparison.md",
     "Elements.md",
+    "Definitions.md",
+    "Server/Context.md",
+    "Server/API Registry.md",
+    "Server/YAML.md",
+    "_Scratchpad.md",
     "Plugins/Plugin Manifest.md",
-    "Plugins/Plugin Structure.md",
-    "Routes.md"
+    "Plugins/Plugin Structure.md"
   ]
 }
