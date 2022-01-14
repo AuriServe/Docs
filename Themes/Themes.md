@@ -5,6 +5,17 @@ Dynamic Includes
 
 ```
 :root {
-	--theme-primary-500: /*@color(theme.colors.primary.500, 'rgb-comma')*/
+	/* @themeset(theme.colors.light.{A}.{B}, '--theme-primary-{A}-{B}', 'color-csv-rgb') */
 }
+
+.dark {
+	/* @themeset(theme.colors.dark.{A}.{B}, 'theme-primary-{A}-{B}', 'color-csv-rgb') */
+}
+```
+
+```YAML
+theme:
+	colors:
+		dark:
+			
 ```
