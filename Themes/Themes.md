@@ -13,21 +13,24 @@ Dynamic Includes
 	/* @themeset(theme.colors.mono.{A}, '--theme-{A}', 'color-csv-rgb') */
 	
 	/* creates:
-		--theme-white: 255, 255, 255
-		--theme-black: 0, 0, 0
+		--theme-white: 255, 255, 255;
+		--theme-black: 0, 0, 0;
 	*/
 	
 	/* or use theme() to just get a single theme value.
-	--theme-white: /* @theme(theme.colors.mono.white, 'color-csv-rgb') */
-	--theme-black: /* @theme(theme.colors.mono.black, 'color-csv-rgb') */
+	--theme-white: /* @theme(theme.colors.mono.white, 'color-csv-rgb') */;
+	--theme-black: /* @theme(theme.colors.mono.black, 'color-csv-rgb') */;
 
-	/*
+	/* Creates the same thing:
+		--theme-white: 255, 255, 255
+		--theme-black: 0, 0, 0
+	*/
 	
 }
 ```
 
 ```YAML
-theme:
+layout:
 	colors:
 		mono:
 			white: color
@@ -54,4 +57,12 @@ theme:
 			700: color
 			800: color
 			900: color
+
+values:
+	colors:
+		mono:
+			white: #ffffff
+			black: #000000
+		...
+
 ```
