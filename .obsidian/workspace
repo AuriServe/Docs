@@ -51,17 +51,6 @@
             }
           },
           {
-            "id": "d066c0f512bebf1d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "7bd24f56e9ec3a65",
             "type": "leaf",
             "state": {
@@ -73,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 288
   },
   "right": {
     "id": "60f852ac00d3c6b3",
@@ -82,6 +71,22 @@
       {
         "id": "41c5071af1c08ade",
         "type": "tabs",
+        "dimension": 31.67330677290837,
+        "children": [
+          {
+            "id": "0c42e3f157be4d1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e38fd1bd0457f8d",
+        "type": "tabs",
+        "dimension": 68.32669322709164,
         "children": [
           {
             "id": "aacac56045863f01",
@@ -123,11 +128,14 @@
             }
           },
           {
-            "id": "0c42e3f157be4d1e",
+            "id": "d066c0f512bebf1d",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
