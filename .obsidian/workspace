@@ -7,13 +7,8 @@
         "id": "652a80fe4ced52ce",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plugins/Themes/Overview.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plugins/Themes/Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Themes/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Themes/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +137,12 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
+    "Views.md",
+    "Definitions.md",
     "Plugins/Themes/Overview.md",
     "Server/YAML.md",
     "Plugins/Plugin Structure.md",
     "Plugins/Plugin Manifest.md",
-    "Views.md",
-    "Definitions.md",
     "Plugins/Routes/Overview.md",
     "Plugins/Elements/Overview.md",
     "Routes.md",

@@ -1,7 +1,7 @@
 # Overview
 Catalogs and loads themes for use in rendered HTML, such as in the Pages plugin.
 
-## Theme Syntax
+## Directives
 The following directives are supported by the themes Plugin by writing them within a comment in your source files. Some directives require a specific language, which is noted below.
 
 ### @color-swatch(optionPath, propertyPrefix, format)
@@ -100,16 +100,9 @@ presets:
 **Resolves to:**
 ```css
 #page {
-	
-	--color-primary-50: 255,227,227;
-	--color-primary-100: 255,189,189;
-	--color-primary-200: 255,155,155;
-	--color-primary-300: 248,106,106;
-	--color-primary-400: 239,78,78;
-	--color-primary-500: 220,46,46;
-	--color-primary-600: 202,30,36;
-	--color-primary-700: 173,26,32;
-	--color-primary-800: 138,4,26;
-	--color-primary-900: 97,3,22;
+	color: black;
+	background-color: white;
 }
 ```
+
+All conditional expressions must end with an `@endif` directive, and currently, nested conditionals are not supported.
