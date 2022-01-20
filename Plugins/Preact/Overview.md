@@ -2,6 +2,7 @@
 Exposes a Preact instance to plugins.
 
 <br>
+
 ## API
 The following functions and properties are exported as `preact`:
 
@@ -18,6 +19,7 @@ The `forwardRef` function from `preact/compat`.
 SSR Rendering function from `preact-render-to-string`.
 
 <br>
+
 ## Globals
 Currently, these globals are declared as a hack to fix Typescript & Webpack integration, and they will probably be removed once the underlying issue is fixed.
 
@@ -29,6 +31,8 @@ Currently, these globals are declared as a hack to fix Typescript & Webpack inte
 
 ### \_\_PREACT_COMPAT
 The Preact Compat library, currently only contains `forwardRef`.
+
+<br>
 
 ## Dependencies
 (none)

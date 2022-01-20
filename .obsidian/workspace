@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins/Preact/Overview.md",
+            "file": "Plugins/Routes/Overview.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Preact/Overview.md"
+                "file": "Plugins/Routes/Overview.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Preact/Overview.md",
+                "file": "Plugins/Routes/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Preact/Overview.md",
+                "file": "Plugins/Routes/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
-    "Plugins/Preact/Overview.md",
-    "Server/API Registry.md",
+    "Plugins/Routes/Overview.md",
     "Routes.md",
+    "Elements.md",
+    "Plugins/Elements/Overview.md",
+    "Plugins/Preact/Overview.md",
+    "Plugins/Untitled.md",
+    "Server/API Registry.md",
     "Phone Comparison.md",
     "Themes/Themes.md",
-    "Server/Context.md",
-    "Plugins/Best Practices.md",
-    "Plugins/Plugin Manifest.md",
-    "Server/YAML.md",
-    "Definitions.md"
+    "Server/Context.md"
   ]
 }
