@@ -1,5 +1,12 @@
-# Themes
+# Overview
+Catalogs and loads themes for use in rendered HTML, such as in the Pages plugin.
 
+## Theme Syntax
+
+```css
+
+
+```
 
 Dynamic Includes
 

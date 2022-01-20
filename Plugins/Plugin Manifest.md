@@ -8,10 +8,10 @@ YAML is parsed according to [[YAML|AuriServe's YAML parsing rules]].
 
 ```yaml
 # The main identifier for your plugin. Must only contain 
-# lowercase letters and hyphens. Should be the same as the 
+# lowercase letters and underscores. Should be the same as the 
 # exported API identifier, if there is one.
 
-identifier: my-auriserve-plugin
+identifier: my_auriserve_plugin
 
 # Optional: The friendly name for your plugin, shown to users.
 # May contain any characters, but it is recommended to keep it below
@@ -26,14 +26,11 @@ description:|
 	This is my awesome plugin for awesome things.
 	Can you believe it?
 
-# The author of the plugin. Must only contain letters and spaces,
-# however, if an @ sign is the first character, the author is assumed
-# to be an AuriServe Plugin Database Developer username, and it must
-# conform to the format required there.
+# The author of the plugin. Must only contain letters and spaces.
 
-author: @Auri
+author: Auri
 
-# The SemVer version number of the plugin.
+# The semantic version number of the plugin.
 
 version: 0.5.2
 
@@ -42,23 +39,12 @@ version: 0.5.2
 # 'client' specifies code to run in the backend interface.
 # The value can either be a string to the JavaScript file, or
 # an object with the following keys:
-# - script - The JavaScript file to execute.
-# - style - A CSS Stylesheet to include (only valid on 'client')
+# script - The JavaScript file to execute.
+# style - A CSS Stylesheet to include (only valid on 'client')
 
 entry:
-- server: dist/server.js
-- client:
-	script: dist/editor.js
-	style: dist/editor.css
+	server: dist/server.js
+	client:
+		script: dist/editor.js
+		style: dist/editor.css
 ```
-
-
-invalid {
-	key is primitive {
-			
-	}
-}
-
-validations contains subschemas {
-
-}
