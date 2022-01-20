@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Themes/Themes.md",
+            "file": "Routes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themes/Themes.md"
+                "file": "Routes.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themes/Themes.md",
+                "file": "Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themes/Themes.md",
+                "file": "Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,8 @@
   },
   "active": "652a80fe4ced52ce",
   "lastOpenFiles": [
+    "Routes.md",
+    "Phone Comparison.md",
     "Themes/Themes.md",
     "Server/Context.md",
     "Plugins/Best Practices.md",
@@ -154,8 +156,6 @@
     "Server/YAML.md",
     "Definitions.md",
     "Views.md",
-    "_Scratchpad.md",
-    "Routes.md",
-    "Elements.md"
+    "_Scratchpad.md"
   ]
 }
